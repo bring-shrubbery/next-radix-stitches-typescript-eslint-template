@@ -4,7 +4,7 @@ This example shows how to use the [Radix design system foundation](https://www.r
 
 ## How to use
 
-Click "use template" button or clone this repo and you're good to go!
+Click the green "Use this template" button or clone this repo and you're good to go!
 
 ## Contributors
 
