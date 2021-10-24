@@ -1,0 +1,27 @@
+{
+  "name": "next-radix-stitches-typescript-eslint-template",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "fix": "prettier --write --ignore-unknown"
+  },
+  "dependencies": {
+    "@radix-ui/colors": "^0.1.7",
+    "@radix-ui/react-icons": "^1.0.3",
+    "@stitches/react": "^1.2.5",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.32",
+    "eslint": "7",
+    "eslint-config-next": "11.1.2",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.4.1",
+    "typescript": "^4.4.4"
+  }
+}
